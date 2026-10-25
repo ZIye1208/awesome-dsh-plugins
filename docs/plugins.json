@@ -161665,6 +161665,25 @@
       "pushedAt": "2026-08-15"
     },
     {
+      "name": "dsh-settings-nav-manager",
+      "repo": "ZIye1208/dsh-settings-nav-manager",
+      "description": "Edit mode for the DSH settings navigation: drag to reorder, show/hide sections, group them into named collapsible drawers, and pin up to five sections to the main sidebar for one-click access.",
+      "category": "bundle",
+      "official": false,
+      "added": "2026-10-25",
+      "lastVerified": "2026-10-25",
+      "verifiedAgainst": "0.2.1-rc.3",
+      "status": "verified",
+      "evidence": "package.json#dsh.bundle",
+      "npm": "dsh-settings-nav-manager",
+      "stars": 3,
+      "starsUpdated": "2026-10-25",
+      "tags": [
+        "ui"
+      ],
+      "pushedAt": "2026-10-25"
+    },
+    {
       "name": "dsh-settings-nav-organizer",
       "repo": "zhengjy01/dsh-settings-nav-organizer",
       "description": "Organize the DSH settings panel nav: fold third-party plugin entries under collapsible group rows, with bookmark-style custom groups and a fold toggle in General settings.",

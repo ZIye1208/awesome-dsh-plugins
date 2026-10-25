@@ -4,7 +4,7 @@
 
 npm packages with a `dsh.bundle` manifest: composition layers a profile boots from.
 
-102 entries, most-starred first. Back to the [registry README](../README.md) · [gallery](https://dsh.works/awesome-dsh-plugins/).
+103 entries, most-starred first. Back to the [registry README](../README.md) · [gallery](https://dsh.works/awesome-dsh-plugins/).
 
 | Name | Repo ★ | Repo | Description | Verified against |
 |---|---|---|---|---|
@@ -57,6 +57,7 @@ npm packages with a `dsh.bundle` manifest: composition layers a profile boots fr
 | dsh-docker | 3 | [STARDUSTLC666/dsh-docker](https://github.com/STARDUSTLC666/dsh-docker) · [npm](https://www.npmjs.com/package/@stardustlc/dsh-docker) | Docker container tools for DeepSeek Harness: ps, logs, inspect, exec, and manage via the official subprocess service. | 0.1.0-rc.8 (2026-08-20) |
 | dsh-feishucard | 3 | [cmfok/dsh-feishucard](https://github.com/cmfok/dsh-feishucard) · [npm](https://www.npmjs.com/package/dsh-feishucard) | Feishu/Lark bridge for DeepSeek Harness with streaming reply cards, per-chat sessions, and official-SDK long connection. | 0.1.0-rc.8 (2026-08-20) |
 | dsh-session-doctor | 3 | [mayf3/dsh-session-doctor](https://github.com/mayf3/dsh-session-doctor) | Diagnose stuck DeepSeek Harness sessions, abort hung activity, keep queued messages, and resume processing. | 0.1.0-rc.8 (2026-08-20) |
+| dsh-settings-nav-manager | 3 | [ZIye1208/dsh-settings-nav-manager](https://github.com/ZIye1208/dsh-settings-nav-manager) · [npm](https://www.npmjs.com/package/dsh-settings-nav-manager) | Edit mode for the DSH settings navigation: drag to reorder, show/hide sections, group them into named collapsible drawers, and pin up to five sections to the main sidebar for one-click access. | 0.2.1-rc.3 (2026-10-25) |
 | dsh-wm | 3 | [WayneJin0918/dsh-wm](https://github.com/WayneJin0918/dsh-wm) | World-model research toolkit: inspect frames, name 3D / pixel / latent routes, score pred vs GT, and RSI skills / wm.yaml. | 0.1.0-rc.8 (2026-08-20) |
 | cordis-transfer-plugin | 2 | [zby1211/cordis-transfer-plugin](https://github.com/zby1211/cordis-transfer-plugin) · [npm](https://www.npmjs.com/package/cordis-transfer-plugin) | Import and export dynamic Cordis plugins as zip packages from the DeepSeek Harness web UI. | 0.1.0-rc.8 (2026-08-20) |
 | dsh-balance-monitor | 2 | [Rainronin/dsh-balance-monitor](https://github.com/Rainronin/dsh-balance-monitor) · [npm](https://www.npmjs.com/package/@rainronin/dsh-balance-monitor) | DeepSeek API balance snapshot, a ds_balance tool, and a Matrix sidebar badge for DeepSeek Harness. | 0.1.0-rc.8 (2026-08-20) |

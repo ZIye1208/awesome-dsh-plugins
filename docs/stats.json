@@ -1,10 +1,10 @@
 {
   "updated": "2026-10-25",
-  "plugins": 20769,
+  "plugins": 20770,
   "authors": 12181,
-  "npm": 6467,
+  "npm": 6468,
   "categories": {
-    "bundle": 102,
+    "bundle": 103,
     "plugin": 19968,
     "skill": 694,
     "theme": 2,
@@ -53,6 +53,10 @@
     {
       "version": "0.1.0-rc.5",
       "count": 9
+    },
+    {
+      "version": "0.2.1-rc.3",
+      "count": 1
     },
     {
       "version": "0.2.1-alpha.1",
